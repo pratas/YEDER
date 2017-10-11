@@ -3,5 +3,5 @@
   <br><br>
   <b>An unsupervised intelligent system for the reconstruction and analysis of ancient DNA.</b>
   <br><br>
-  <img src="imgs/project.png" alt="YEDER Birds Eye View" width="650" height="650" border="0" /><br>
+  <img src="imgs/project.png" alt="YEDER Birds Eye View" width="670" height="670" border="0" /><br>
 </p>
