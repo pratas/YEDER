@@ -76,14 +76,12 @@ int main(int argc, char *argv[]){
                                          "UNCRYFA parameters",
                                           NULL};
 
+  static char *goose_info_cmd[]       = {"../bins/goose-info",
+                                         "goose-x parameters",
+                                          NULL};
 
-
- 
   RunExec(falcon_cmd);
-
   RunExec(gull_map_cmd);
-
-  RunExec(falcon_cmd);
   
   return 0;
   }
