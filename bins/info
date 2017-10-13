@@ -1,1 +1,3 @@
-Exec
+Executables.
+
+To regenerate new, go to scripts and run ReGetBins.sh
