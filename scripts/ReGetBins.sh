@@ -60,7 +60,7 @@ fi
 # GET BOWTIE
 #
 if [[ "$GET_BOWTIE" -eq "1" ]]; then
-  sudo apt-get install libtbb-dev
+  #sudo apt-get install libtbb-dev
   rm -fr bowtie/
   git clone https://github.com/BenLangmead/bowtie.git
   cd bowtie/
